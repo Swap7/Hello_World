@@ -1,2 +1,2 @@
-# Appz
-Just some apps I make
+# Hello
+Just a temp. hello world thing
